@@ -8,9 +8,6 @@ Method #2: Download "VidMob - Calculator" folder, and "src/calculator" has all t
 ### Understand The Structure (check out this diagram!)
 Diagram link here
 
-### Understand The Design and How To Use (check out this video!)
-Video here
-
 ### Author
 * Yucheng 'Melvin' Liu 
 * lyc.melvin@gmail.com
