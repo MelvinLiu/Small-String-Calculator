@@ -1,7 +1,7 @@
 Welcome! This is VidMob Calculator application built on Java, and it is ready to take your Math questions!
 
 ### How to start
-Solution 1: Simply download the "VidMob Calculator.jar" (the runnable Jar File). If you have installed Java on your local machine, you should be able to run the application.
+Solution 1: Simply download the "VidMob Calculator.jar" (the runnable jar file). If you have installed Java on your local machine, you should be able to run the application.
 
 Solution 2: Download "VidMob - Calculator" folder, and "src/calculator" has all the source codes. The main method is in 'AppRunner.java' class.
 
@@ -12,8 +12,8 @@ Diagram link here
 Video here
 
 ### Author
-Yucheng 'Melvin' Liu 
-lyc.melvin@gmail.com
+* Yucheng 'Melvin' Liu 
+* lyc.melvin@gmail.com
 
 ### Algorithm Reference
 * https://en.wikipedia.org/wiki/Reverse_Polish_notation
