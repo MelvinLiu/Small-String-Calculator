@@ -12,8 +12,8 @@ Method #1: Simply download the "VidMob Calculator.jar" (the runnable jar file). 
 
 Method #2: Download "VidMob - Calculator" folder, and "src/calculator" has all the source codes. The main method is in 'AppRunner.java' class.
 
-### Understand The Structure (check out this diagram!)
-![Software Design Architecture Diagram_FINAL](https://user-images.githubusercontent.com/83191250/116027609-58464b00-a623-11eb-9a86-fa8bd398374f.jpeg)
+### Understand The Design (
+<img src="ReadMeImages/Software%20Design%20Architecture%20Diagram_FINAL.jpeg width="500">
 
 ### Author
 * Yucheng 'Melvin' Liu 
