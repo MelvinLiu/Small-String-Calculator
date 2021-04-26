@@ -6,7 +6,7 @@ This is VidMob Calculator application built in Java, and it is ready to take you
 ## How To Start
 Method #1: Simply download the "VidMob Calculator.jar" (the runnable jar file). If you have installed Java on your local machine, you should be able to run the application.
 
-Method #2: Download "VidMob - Calculator" folder, and "src/calculator" has all the source codes. The main method is in 'AppRunner.java' class.
+Method #2: Download "VidMob - Calculator" folder or "VidMob - Calculator.zip" file. The main method is in 'AppRunner.java' class.
 
 ## User Interface 
 1. Welcome Page
