@@ -1,5 +1,9 @@
 
 Welcome! This is VidMob Calculator application built on Java, and it is ready to take your Math questions!
+![WelcomeWindow](https://user-images.githubusercontent.com/83191250/116027724-9d6a7d00-a623-11eb-9de0-874d1ffe6fdc.JPG)
+![MainWindow1](https://user-images.githubusercontent.com/83191250/116027732-a0656d80-a623-11eb-948e-e6a163f70f7f.JPG)
+
+
 
 ### How To Start
 Method #1: Simply download the "VidMob Calculator.jar" (the runnable jar file). If you have installed Java on your local machine, you should be able to run the application.
