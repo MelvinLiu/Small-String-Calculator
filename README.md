@@ -5,6 +5,7 @@ This is VidMob Calculator application built on Java, and it is ready to take you
 
 <img src="ReadMeImages/1%20Welcome%20Window.JPG" width="500">
 <img src="ReadMeImages/2%20MainWindow.JPG" width="500">
+<img src="ReadMeImages/3%20MainWindow%20Result.JPG" width="500">
 
 
 ### How To Start
