@@ -3,14 +3,14 @@ Welcome!
 
 This is VidMob Calculator application built on Java, and it is ready to take your Math questions!
 
-<img src="ReadMeImages/1%20Welcome%20Window.JPG" width="500">
-<img src="ReadMeImages/2%20MainWindow.JPG" width="500">
-
-
 ### How To Start
 Method #1: Simply download the "VidMob Calculator.jar" (the runnable jar file). If you have installed Java on your local machine, you should be able to run the application.
 
 Method #2: Download "VidMob - Calculator" folder, and "src/calculator" has all the source codes. The main method is in 'AppRunner.java' class.
+
+
+<img src="ReadMeImages/1%20Welcome%20Window.JPG" width="500">
+<img src="ReadMeImages/2%20MainWindow.JPG" width="500">
 
 ### Understand The Design (VidMob Calculator_Architecture Diagram)
 
