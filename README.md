@@ -1,5 +1,6 @@
 # VidMob Calculator
 Welcome! 
+
 This is VidMob Calculator application built on Java, and it is ready to take your Math questions!
 
 <img src="ReadMeImages/1%20Welcome%20Window.JPG" width="500">
