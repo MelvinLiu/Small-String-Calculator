@@ -14,7 +14,7 @@ Method #2: Download "VidMob - Calculator" folder, and "src/calculator" has all t
 
 ### Understand The Design (VidMob Calculator_Architecture Diagram)
 
-<img src="ReadMeImages/Software%20Design%20Architecture%20Diagram_FINAL.jpeg" width="500">
+<img src="ReadMeImages/Software%20Design%20Architecture%20Diagram_FINAL.jpeg" width="700">
 
 ### Author
 * Yucheng 'Melvin' Liu 
