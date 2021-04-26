@@ -7,31 +7,37 @@ import calculator.coreCalculator.MainCalculatorRPNConversion;
 import calculator.coreCalculator.MainCalculatorStringHandler;
 
 /*
-____________________________CLASS INFO___________________________________________________________________________________________________________
-|*Class Name          - CalculatorCentral.java													|		
-|*Class Purpose       - be the center of passing variables amongst calculation related classes							|
-|*Class Dependency    - created by MainWindow class and recieve user input from MainWindow Class' method 					|	
-|*		      - creates GateKeeper class to validate user input										|
-|*		      - creates MainCalculatorStringHandler class to break string into a list (infix notation)					|
-|*		      - creates MainCalculatorRPNConversion class to convert the list (infix notation) into reverse polish notation (RPN)	|
-|*	              - creates MainCalculatorCalculation class to calculate the result								|
-|*		      - return calculation result back to MainWindow class									|
-|*APIs/Libraries used - java.util.List														|
-*************************************************************************************************************************************************
+____________________________CLASS INFO_______________________________________________________________________________________________________
+|*Class Name          - CalculatorCentral.java																								|		
+|*Class Purpose       - be the center of passing variables amongst calculation related classes												|
+|*Class Dependency    - created by MainWindow class and recieve user input from MainWindow Class' method 									|	
+|*					  - creates GateKeeper class to validate user input																		|
+|*					  - creates MainCalculatorStringHandler class to break string into a list (infix notation)								|
+|*					  - creates MainCalculatorRPNConversion class to convert the list (infix notation) into reverse polish notation (RPN)	|
+|*					  - creates MainCalculatorCalculation class to calculate the result														|
+|*					  - return calculation result back to MainWindow class																	|
+|*APIs/Libraries used - java.util.List																										|
+*********************************************************************************************************************************************
 
-CONSTRUCTOR / METHODS INFO
-*1. CalculatorCentral (Constructor)
-|*Purpose: create CalculatorCentral and receive input string from MainWindow class
-|*Dependency: called by MainWindow class
-|*Visibility: public
-|*Intake parameters: String inputStringFromMainWindow
-
-*2. processingCentral()
-|*Purpose: be the center of passing variables amongst calculation related classes and implements various 'Watch Towers" to monitor intermediate results	
-|*Dependency: called by MainWindow class; creates GateKeeper class to validate user input; creates MainCalculatorStringHandler class to break string into a list (infix notation); creates MainCalculatorRPNConversion class to convert the list (infix notation) into reverse polish notation (RPN); creates MainCalculatorCalculation class to calculate the result; return calculation result back to MainWindow class
-|*		Visibility	    - public																											|
+____________________________CONSTRUCTOR / METHODS INFO___________________________________________________________________________________________
+|*1. CalculatorCentral (Constructor)												       														|
+|*		Purpose				- create CalculatorCentral and receive input string from MainWindow class											| 
+|*		Dependency		  	- called by MainWindow class																						|
+|*		Visibility	  	    - public																											|
+|*		Intake parameters   - String inputStringFromMainWindow																					|
+|*																																				|
+|*2. processingCentral()												       																	|
+|*		Purpose				- be the center of passing variables amongst calculation related classes											|
+|*							- implements various 'Watch Towers" to monitor intermediate results 												|
+|*		Dependency		  	- called by MainWindow class																						|
+|*							- creates GateKeeper class to validate user input																	|
+|*							- creates MainCalculatorStringHandler class to break string into a list (infix notation)							|	
+|*							- creates MainCalculatorRPNConversion class to convert the list (infix notation) into reverse polish notation (RPN)	|
+|*					  		- creates MainCalculatorCalculation class to calculate the result													|
+|*					  		- return calculation result back to MainWindow class																|
+|*		Visibility	  	    - public																											|
 |*		Intake parameters   - n/a																												|
-|*		Return type	    - String finalResultReadyToDisplay or String errorMessageReadyToDisplay	                                   			|
+|*		Return type			- String finalResultReadyToDisplay or String errorMessageReadyToDisplay	                                   			|
 *************************************************************************************************************************************************
 */
 
